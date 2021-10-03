@@ -13,4 +13,8 @@ public class Third {
     public void m (String s){
         System.out.println("third three");
     }
+
+    public static void main(String[] args) {
+        System.out.println("5");
+    }
 }
